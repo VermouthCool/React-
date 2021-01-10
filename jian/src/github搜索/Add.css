@@ -1,0 +1,9 @@
+.jian{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.jian > input{
+    width: 200px;
+    height: 20px;
+}
